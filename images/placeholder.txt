@@ -1,0 +1,10 @@
+This directory contains images for the Red Tape Shoes landing page.
+
+Required images:
+1. hero-shoe.png - Hero section main image
+2. about-image.jpg - About section image
+3. shoe-1.jpg - Urban Casual shoe
+4. shoe-2.jpg - Classic Formal shoe
+5. shoe-3.jpg - Active Sport shoe
+
+Please replace these placeholder images with actual Red Tape product images.
